@@ -1,11 +1,36 @@
-#logo{
-height: 20px;
-width: 60px;
-border-radius: 10px;
-}
+
 #challang{
 width: 730px;
 
 
 }
+
+
+.anchor
+         a:hover   {
+
+background-color: red;
+
+
+
+
+}
+.one{
+
+padding-left: 75px;
+
+}
+#Flexible_Desktop__Cat_Card{
+width: 260px;
+height: 260px;
+
+
+}
+.color{
+background-color: rgb(55,71, 90);
+
+
+
+}
+
 
